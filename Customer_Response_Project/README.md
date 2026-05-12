@@ -72,7 +72,7 @@ The scripts create:
 
 ## Report Use
 
-Use the generated figures and result tables in the final report:
+Using the generated figures and result tables in my final report:
 - Response distribution
 - Income distribution
 - Age distribution
